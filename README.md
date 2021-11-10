@@ -19,7 +19,7 @@ Engenheiro e Cientista de dados at Grupo DASA
 
 ## Artigos:
 
-**Como o devido entendimento destes 3 KPIs podem otimizar seu estoque?** - https://bit.ly/3F2fOKI
+**A01: Como o devido entendimento destes 3 KPIs podem otimizar seu estoque?** - https://bit.ly/3F2fOKI
 
 ## Projetos:
 
